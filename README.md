@@ -1,7 +1,8 @@
 # 👋 Hi, i'm Miguel!
 
-I'm from the south of Brazil, currently pursuing a degree in  [Information Systems](http://www.si.c3.furg.br/ ) at [FURG](https://www.furg.br/en/carreiros-campus).
-
+I'm from the south of Brazil, currently pursuing a degree in  [Information Systems](    <a href="http://www.si.c3.furg.br/" target="_blank" rel="noopener noreferrer"></a>
+) at [FURG](https://www.furg.br/en/carreiros-campus).
+ 
 I'm particularly focused on honing my skills to become a **Full Stack Developer**.
 
 From time to time, I update here :)
