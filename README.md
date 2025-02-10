@@ -4,7 +4,6 @@ I'm from the south of Brazil, currently pursuing a degree in  [Information Syste
  
 I'm particularly focused on honing my skills to become a **Full Stack Developer**.
 
-From time to time, I update here :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-medina-1a0b641a0/) 
