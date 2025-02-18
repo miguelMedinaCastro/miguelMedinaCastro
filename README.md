@@ -1,9 +1,6 @@
 # 👋 Hi, i'm Miguel!
 
 I'm from the south of Brazil, currently pursuing a degree in  [Information Systems](http://www.si.c3.furg.br/) at [FURG](https://www.furg.br/en/carreiros-campus).
- 
-I'm particularly focused on honing my skills to become a **Full Stack Developer**.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-medina-1a0b641a0/) 
