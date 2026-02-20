@@ -23,8 +23,6 @@ I am a Backend Developer with a strong interest in low-level programming and har
 
 ## How to reach me
 
-## How to reach me
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/311719936365953025)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-medina-1a0b641a0)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:0medinadev@gmail.com)
