@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Miguel!</h1>
-A dynamic GitHub profile README generator that creates animated SVG banners with a space/galaxy theme. Your GitHub stats, tech stack, and featured projects are rendered as a living galaxy.
+I am a Backend Developer with a strong interest in low-level programming and hardware-near development, consistently integrating both areas to evolve technically and deepen my knowledge.
 
 ## Preview
 
