@@ -57,7 +57,7 @@ galaxy_arms:
 #   description: "..."        — Short description shown on the card
 projects:
   - repo: "https://github.com/miguelMedinaCastro/medinaOS"
-    arm: 0
+    arm: 1
     description: "A lifelong personal project: my own Operating System."
   - repo: "https://github.com/miguelMedinaCastro/VHDL-Practice"
     arm: 1
