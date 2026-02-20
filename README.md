@@ -20,5 +20,3 @@ I am a Backend Developer with a strong interest in low-level programming and har
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
-
-<br/>
