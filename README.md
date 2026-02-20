@@ -21,3 +21,4 @@ A dynamic GitHub profile README generator that creates animated SVG banners with
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
+<br/>
